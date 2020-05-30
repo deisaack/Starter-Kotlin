@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">FooBar</string>
+    <string name="btn_show_toast">Show Toast</string>
+    <string name="title">Title</string>
+    <string name="image_details">Image details</string>
+    <string name="button_was_clicked">Button was clicked</string>
+</resources>

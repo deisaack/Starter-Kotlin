@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btn_show_toast">Afficher le toast</string>
+    <string name="title">Title</string>
+    <string name="image_details">Image details</string>
+    <string name="button_was_clicked">Imebonyezwa</string>
+</resources>
